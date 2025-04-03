@@ -1,3 +1,3 @@
-import src.scrapers.webpagescraper
-import src.scrapers.olxscraper
-import src.scrapers.otodomscraper
+from . import webpagescraper
+from . import olxscraper
+from . import otodomscraper

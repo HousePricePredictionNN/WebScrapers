@@ -1,4 +1,8 @@
 .idea/
 */__pycache__/
 *.pyc
-
+src/scrapers/__pycache__/
+resources/*
+!resources/combined_data.csv
+!resources/otodom_data.csv
+!resources/olx_data.csv
